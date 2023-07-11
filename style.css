@@ -1,3 +1,19 @@
 .header{
     padding: 0px;
 }
+
+.landing{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(241, 223, 226);
+}
+
+.flower{
+    width: 400px;
+}
+
+.button{
+    padding: 10px 20px;
+    background-color: rgb(238, 47, 142);
+    color: aliceblue;
+}
