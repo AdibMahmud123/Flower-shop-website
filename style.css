@@ -1,5 +1,11 @@
+body{
+    margin: 0;
+}
+
+
 .header{
     padding: 0px;
+    font-size: 65px;
 }
 
 .landing{
@@ -16,4 +22,49 @@
     padding: 10px 20px;
     background-color: rgb(238, 47, 142);
     color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+
+.paragraph{
+    border-color: rgb(226, 216, 216);
+    
+}
+
+.one{
+    background-color: pink;
+    border-radius: 50% 50% 0 0 ;
+    padding: 50px 50px 0px 50px;
+    width: 250px;
+}
+
+.two{
+    background-color: rgb(114, 229, 229);
+    border-radius: 50% 50% 0 0 ;
+    padding: 50px 50px 0px 50px;
+    width: 230px;
+    
+}
+
+.three{
+    background-color: rgb(90, 182, 151);
+    border-radius: 50% 50% 0 0 ;
+    padding: 50px 50px 0px 50px;
+    width: 350px;
+    
+}
+
+.headingtwo{
+    text-align: center;
+}
+
+.Paratwo{
+    text-align: center;
+}
+
+.image{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 100px;
+    
 }
