@@ -111,14 +111,15 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding: 0 100px;
     background-color: rgb(239, 236, 236);
     padding: 100px;
     
 }
 
 .Sectiontwo{
-    margin: 100px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
 
 }
 
@@ -130,7 +131,7 @@ body{
 .delivery{
     position: absolute;
     top: 1400px;
-    left: 260px;
+    left: 310px;
 }
 
 .fresh{
@@ -143,6 +144,53 @@ body{
 .support{
     position: absolute;
     top: 1400px;
-    left: 1000px;
+    left: 940px;
 
+}
+
+.sale{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    background-color: rgb(241, 208, 214);
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 30px;
+    padding-right: 0px;
+}
+
+.button_two{
+    padding: 10px 20px;
+    background-color: rgb(238, 47, 142);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.instagram{
+    margin-bottom: 200px;
+}
+
+.insta_text{
+    text-align: center;
+
+}
+
+.insta_para{
+    font-size: small;
+}
+
+.five-flower{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.last_pics{
+    width: 220px;
+    
 }
